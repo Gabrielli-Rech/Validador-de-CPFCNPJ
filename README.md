@@ -1,6 +1,6 @@
 ## Validador-de-CPFCNPJ
 
-Ferramenta simples e poderosa para validar CPFs e CNPJs — um utilitário clean que mostra que você domina lógica, boas práticas e entendimento de regras de negócio.
+Ferramenta simples e poderosa para validar CPFs e CNPJs — um utilitário clean que mostra que você domina lógica, boas práticas e entendimento de regras de negócio!
 
 ## 🎯 Descrição do Projeto
 
